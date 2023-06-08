@@ -1,0 +1,30 @@
+* {
+    background-color: #f6f7f7;
+    margin: 0;
+    padding: 0;
+} 
+
+ul {
+    list-style: none;
+    display: inline-block;
+    display: inline;
+    display: block;
+    display: flex;
+    display: grid;
+}
+
+
+header {
+    padding: 20px 10px 20px 10px;
+   
+}
+
+header, nav{
+    background-color: #ab2490;
+}
+
+nav {
+    display: inline;
+}
+
+
