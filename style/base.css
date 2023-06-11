@@ -6,12 +6,9 @@
 
 ul {
     list-style: none;
-    display: inline-block;
-    display: inline;
-    display: block;
-    display: flex;
-    display: grid;
 }
+
+
 
 
 header {
@@ -23,8 +20,12 @@ header, nav{
     background-color: #4d24d2;
 }
 
-nav {
-    display: inline;
+header > nav >div {
+    display: inline-block;
+}
+
+menu > ul > li{
+  display: inline-block
 }
 
 
